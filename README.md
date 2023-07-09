@@ -9,5 +9,9 @@ My name is Quang. I am a Software Engineer, majoring in Computer Engineering. I 
 
 <a href="https://github.com/quangdinh17th/Autorace2022">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangdinh17th&repo=Autorace2022&theme=radical" />
-</a>    
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangdinh17th&repo=Autorace2022&theme=merko" />
+</a>
+<a href="https://github.com/quangdinh17th/PBL1-Computer-programming">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangdinh17th&repo=PBL1-Computer-programming&theme=merko" />
+</a>
