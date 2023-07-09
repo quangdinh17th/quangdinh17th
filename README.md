@@ -16,8 +16,11 @@ My name is Quang. I am a Software Engineer, majoring in Computer Engineering. I 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangdinh17th&repo=PBL1-Computer-programming&theme=merko" />
 </a>
 
-<a href="
-https://github.com/quangdinh17th/system-and-signal-laboratory">
+<a href="https://github.com/quangdinh17th/system-and-signal-laboratory">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangdinh17th&repo=system-and-signal-laboratory&theme=merko" />
+</a>
+<a href="https://github.com/quangdinh17th/quangdinh17th.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangdinh17th&repo=quangdinh17th.github.io&theme=merko" />
 </a>
