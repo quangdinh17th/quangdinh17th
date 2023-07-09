@@ -6,3 +6,8 @@ My name is Quang. I am a Software Engineer, majoring in Computer Engineering. I 
 
 ![Quang's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangdinh17th&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangdinh17th)](https://github.com/quangdinh17th/github-readme-stats)
+
+<a href="https://github.com/quangdinh17th/Autorace2022">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangdinh17th&repo=Autorace2022&theme=radical" />
+</a>    
