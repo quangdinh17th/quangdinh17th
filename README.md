@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋
-My name is Quang. I am a Software Engineer, majoring in Computer Engineering. I am also studying and working on Machine Learning and IoT.
+I'm Quang studying Electronics and Telecommunications Engineering majoring in Computer Engineering at Danang University of Science and Technology. I have knowledge and experience in programming, especially C/C++, Matlab, and Python programming languages.
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vanquang17th/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/quangdinh17th) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCHiLRDTAEkRV6hOHRZVztLQ)
